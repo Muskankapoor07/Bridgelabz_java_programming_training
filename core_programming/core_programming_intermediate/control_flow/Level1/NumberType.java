@@ -1,0 +1,17 @@
+package core_programming.core_programming_intermediate.control_flow.Level1;
+
+import java.util.Scanner;
+
+class NumberType {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int n = input.nextInt();
+
+        if (n > 0)
+            System.out.println("Positive");
+        else if (n < 0)
+            System.out.println("Negative");
+        else
+            System.out.println("Zero");
+    }
+}
