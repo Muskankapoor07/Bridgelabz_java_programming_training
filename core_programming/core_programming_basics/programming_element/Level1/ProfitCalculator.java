@@ -1,3 +1,5 @@
+package core_programming.core_programming_basics.programming_element.Level1;
+
 class ProfitCalculator {
     public static void main(String[] args) {
         double costPrice = 129;

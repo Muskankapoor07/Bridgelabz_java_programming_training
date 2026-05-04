@@ -1,0 +1,18 @@
+package core_programming.core_programming_basics.programming_element.Level1;
+
+import java.util.Scanner;
+
+class TotalPrice {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        double price = input.nextDouble();
+        int quantity = input.nextInt();
+
+        double total = price * quantity;
+
+        System.out.println("The total purchase price is INR " + total +
+                " if the quantity " + quantity +
+                " and unit price is INR " + price);
+    }
+}
