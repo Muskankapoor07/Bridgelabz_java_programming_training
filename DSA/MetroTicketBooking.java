@@ -3,19 +3,18 @@ package DSA;
 import java.util.*;
 
 public class MetroTicketBooking {
-
     Queue<String> bookingQueue = new LinkedList<>();
 
     void addBooking(String name) {
         bookingQueue.add(name);
-        System.out.println(name + " booking added ");
+        System.out.println(name + " booking add ");
     }
 
     void processBooking() {
         if (bookingQueue.isEmpty()) {
             System.out.println("No bookings available ");
         } else {
-            System.out.println(bookingQueue.remove() + " ticket booked.");
+            System.out.println(bookingQueue.remove() + " ticket booked");
         }
     }
 
@@ -28,19 +27,13 @@ public class MetroTicketBooking {
     }
 
     public static void main(String[] args) {
-
         MetroTicketBooking mb = new MetroTicketBooking();
-
         mb.addBooking("Muskan");
         mb.addBooking("Rahul");
         mb.addBooking("Priya");
-
         mb.displayQueue();
-
         mb.viewNextBooking();
-
         mb.processBooking();
-
         mb.displayQueue();
     }
 }
