@@ -10,7 +10,7 @@ A structured learning repository containing hands-on assignments, practice probl
 
 ## Repository Overview
 
-This repository documents my learning journey through Java Full Stack Development, covering programming fundamentals, object-oriented design, data structures and algorithms, advanced Java concepts, testing, annotations, and software design principles.
+This repository documents my learning journey through Java Full Stack Development, covering programming fundamentals, object-oriented design, data structures and algorithms, advanced Java concepts, testing, annotations, software design principles, file handling, and multithreading.
 
 The goal of this repository is to:
 
@@ -19,6 +19,7 @@ The goal of this repository is to:
 * Develop problem-solving and algorithmic thinking skills
 * Learn advanced Java features and best practices
 * Apply software design principles and design patterns
+* Understand file handling and concurrent programming
 * Maintain clean, scalable, and maintainable code
 
 ---
@@ -34,6 +35,8 @@ The goal of this repository is to:
 | Regex & JUnit                | Validation, Testing, SonarQube                      |
 | Annotations                  | Built-in and Custom Annotations                     |
 | Design Modeling              | SOLID, DRY, YAGNI, Design Patterns                  |
+| IO Programming               | CSV, JSON, File Handling                            |
+| Multithreading               | Threads, Synchronization, Virtual Threads           |
 
 ---
 
@@ -504,6 +507,102 @@ Notify users about:
 
 ---
 
+## IO Programming & Multithreading
+
+### IO Programming
+
+#### Topics Covered
+
+* CSV Data Handling
+* Reading CSV Files
+* Writing CSV Files
+* CSV Parsing and Validation
+* JSON Data Handling
+* Reading JSON Files
+* Writing JSON Files
+* JSON Parsing
+* JSON Schema Validation
+* FileReader and FileWriter
+* FileInputStream and FileOutputStream
+* BufferedReader and BufferedWriter
+* File Class
+
+#### Practice Projects
+
+##### IPL Analyzer
+
+Analyze IPL datasets using file handling and data processing techniques.
+
+##### Census Analyzer
+
+Process and analyze census data using CSV and JSON files.
+
+##### Address Book System
+
+Perform storage, retrieval, modification, and delete operations using file systems.
+
+##### Hotel Reservation System
+
+Manage hotel bookings and records through file-based storage.
+
+---
+
+### Java 8 Features
+
+#### Topics Covered
+
+* Stream API
+* Lambda Expressions
+* Generics
+* Collection Framework Enhancements
+* Functional Programming Concepts
+
+#### Practice Problems
+
+* Number Play using Stream API
+* Generic Maximum Finder
+* Print Arrays of Different Data Types
+* Linked List Applications
+* Stack and Queue Problems
+* Hash Table and Hash Function Problems
+* Binary Search Tree Problems
+
+---
+
+### Multithreading
+
+#### Topics Covered
+
+* Thread Class
+* Runnable Interface
+* Thread Life Cycle
+* Thread States
+* Virtual Threads
+* Synchronization
+
+#### Practice Projects
+
+##### Producer Consumer Problem
+
+Implement inter-thread communication using synchronization techniques.
+
+##### Thread-Safe Singleton Pattern
+
+Demonstrate Singleton failure in a multithreaded environment and resolve it using synchronized methods.
+
+### Skills Acquired
+
+* File Handling
+* Data Processing
+* Stream-Based Programming
+* Functional Programming
+* Concurrent Programming
+* Thread Synchronization
+* Resource Management
+* Performance Optimization
+
+---
+
 ## Tools & Technologies
 
 | Category           | Tools                   |
@@ -529,6 +628,8 @@ BridgeLabz-Training-Java-Programming
 ├── Regex-JUnit
 ├── Annotations
 ├── Design-Modeling
+├── IO-Programming
+├── Multithreading
 │
 └── README.md
 ```
