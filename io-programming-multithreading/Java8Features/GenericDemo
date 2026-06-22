@@ -1,0 +1,16 @@
+class Box<T> {
+    T value;
+    Box(T value) {
+        this.value = value;
+    }
+    void display() {
+        System.out.println(value);
+    }
+}
+
+public class GenericDemo {
+    public static void main(String[] args) {
+        Box<String> box = new Box<>("Muskan");
+        box.display();
+    }
+}
