@@ -1,35 +1,30 @@
-<div align="center">
-
 # BridgeLabz Training – Java Programming
 
 A structured learning repository containing hands-on assignments, coding exercises, and projects completed during the BridgeLabz Java Full Stack Training Program.
 
-</div>
-
 ---
 
-## Repository Overview
+# Repository Overview
 
-This repository documents my learning journey through Java programming and backend development fundamentals. It covers Core Programming, Object-Oriented Programming, Data Structures & Algorithms, Advanced Java, Design Principles, I/O Programming, Multithreading, and Database Management Systems.
+This repository documents my learning journey through Java programming and backend development fundamentals. It covers Core Programming, Object-Oriented Programming, Data Structures & Algorithms, Advanced Java, Design Principles, I/O Programming, and Multithreading.
 
 The primary objective of this repository is to:
 
-* Build strong programming fundamentals
-* Develop problem-solving and analytical thinking skills
-* Master Object-Oriented Programming concepts
-* Learn Data Structures and Algorithms
-* Explore Advanced Java concepts and best practices
-* Apply software design principles and design patterns
-* Understand file handling and concurrent programming
-* Gain practical experience with relational databases and SQL
-* Write clean, maintainable, and scalable code
+- Build strong programming fundamentals
+- Develop problem-solving and analytical thinking skills
+- Master Object-Oriented Programming concepts
+- Learn Data Structures and Algorithms
+- Explore Advanced Java concepts and best practices
+- Apply software design principles and design patterns
+- Understand file handling and concurrent programming
+- Write clean, maintainable, and scalable code
 
 ---
 
-## Learning Roadmap
+# Learning Roadmap
 
 | Stage | Topics Covered |
-|---------|----------------|
+|--------|----------------|
 | Core Programming | Java Basics, Control Flow, Arrays, Strings, Methods |
 | Object-Oriented Programming | Classes, Objects, Inheritance, Polymorphism |
 | Data Structures & Algorithms | Linked Lists, Stacks, Queues, Trees, Sorting |
@@ -39,7 +34,6 @@ The primary objective of this repository is to:
 | Design Modeling | SOLID, DRY, YAGNI, Design Patterns |
 | IO Programming | CSV, JSON, File Handling |
 | Multithreading | Threads, Synchronization, Virtual Threads |
-| DBMS | PostgreSQL, SQL, JDBC, ER Diagrams, Normalization |
 
 ---
 
@@ -47,39 +41,39 @@ The primary objective of this repository is to:
 
 ## Topics Covered
 
-* Java Environment Setup
-* Variables and Data Types
-* Literals and Operators
-* Type Conversion
-* Input and Output
-* Conditional Statements
-* Loops and Iteration
-* Functions and Methods
-* Arrays and Multi-Dimensional Arrays
-* Strings
-* Exception Handling
-* JVM Architecture
-* Compiler and Interpreter
-* Garbage Collection
-* Git and GitHub Basics
+- Java Environment Setup
+- Variables and Data Types
+- Literals and Operators
+- Type Conversion
+- Input and Output
+- Conditional Statements
+- Loops and Iteration
+- Functions and Methods
+- Arrays and Multi-Dimensional Arrays
+- Strings
+- Exception Handling
+- JVM Architecture
+- Compiler and Interpreter
+- Garbage Collection
+- Git and GitHub Basics
 
 ## Practice Problems
 
-* Factorial Calculator
-* Prime Number Checker
-* Pattern Programming
-* Snake and Ladder Simulation
-* Missing Number in Array
-* School Result Management System
-* Grocery Store Bill Generator
+- Factorial Calculator
+- Prime Number Checker
+- Pattern Programming
+- Snake and Ladder Simulation
+- Missing Number in Array
+- School Result Management System
+- Grocery Store Bill Generator
 
 ## Skills Acquired
 
-* Problem Solving
-* Logical Thinking
-* Debugging
-* Modular Programming
-* Version Control Fundamentals
+- Problem Solving
+- Logical Thinking
+- Debugging
+- Modular Programming
+- Version Control Fundamentals
 
 ---
 
@@ -87,58 +81,62 @@ The primary objective of this repository is to:
 
 ## OOP Fundamentals
 
-* Classes and Objects
-* Constructors
-* Access Modifiers
-* Instance Variables
-* Static Variables
-* Static Methods
-* this Keyword
-* super Keyword
-* instanceof Operator
+- Classes and Objects
+- Constructors
+- Access Modifiers
+- Instance Variables
+- Static Variables
+- Static Methods
+- `this` Keyword
+- `super` Keyword
+- `instanceof` Operator
 
 ## Advanced OOP Concepts
 
-* Inheritance
-* Method Overloading
-* Method Overriding
-* Interfaces
-* Abstraction
-* Encapsulation
-* Polymorphism
-* Object Class
+- Inheritance
+- Method Overloading
+- Method Overriding
+- Interfaces
+- Abstraction
+- Encapsulation
+- Polymorphism
+- Object Class
 
 ## Projects
 
 ### Address Book Management System
 
-Features:
+**Features**
 
-* Add Contact
-* Edit Contact
-* Delete Contact
-* Search Contact
-* Sort Contacts
-* Prevent Duplicate Entries
+- Add Contact
+- Edit Contact
+- Delete Contact
+- Search Contact
+- Sort Contacts
+- Prevent Duplicate Entries
 
 ### Bird Sanctuary System
 
-* Manage flyable and swimmable birds
-* Search birds based on abilities
-* Interface-based implementation
+**Features**
+
+- Manage flyable and swimmable birds
+- Search birds based on abilities
+- Interface-based implementation
 
 ### Employee Wage Computation
 
-* Attendance Tracking
-* Wage Calculation
-* Employee Reporting
+**Features**
+
+- Attendance Tracking
+- Wage Calculation
+- Employee Reporting
 
 ## Skills Acquired
 
-* Object-Oriented Design
-* Reusability
-* Encapsulation
-* Interface-Based Programming
+- Object-Oriented Design
+- Reusability
+- Encapsulation
+- Interface-Based Programming
 
 ---
 
@@ -146,64 +144,64 @@ Features:
 
 ## Data Structures
 
-* Singly Linked List
-* Doubly Linked List
-* Circular Linked List
-* Stack
-* Queue
-* Priority Queue
-* HashMap
-* Trees
-* Graphs
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Stack
+- Queue
+- Priority Queue
+- HashMap
+- Trees
+- Graphs
 
 ## Algorithms
 
 ### Sorting
 
-* Bubble Sort
-* Insertion Sort
-* Merge Sort
-* Quick Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
 
 ### Searching
 
-* Linear Search
-* Binary Search
+- Linear Search
+- Binary Search
 
 ### Analysis
 
-* Time Complexity
-* Space Complexity
-* Big-O Notation
+- Time Complexity
+- Space Complexity
+- Big-O Notation
 
 ## Projects
 
 ### Playlist Management System
 
-* Circular Linked List Implementation
+- Circular Linked List Implementation
 
 ### Balanced Parentheses Checker
 
-* Stack-Based Solution
+- Stack-Based Solution
 
 ### Browser Navigation System
 
-* Back and Forward Navigation using Stack
+- Back and Forward Navigation using Stack
 
 ### Student Database
 
-* HashMap Implementation
+- HashMap Implementation
 
 ### Phone Directory
 
-* Hash Functions and Lookup Operations
+- Hash Functions and Lookup Operations
 
 ## Skills Acquired
 
-* Efficient Data Management
-* Algorithm Design
-* Complexity Analysis
-* Performance Optimization
+- Efficient Data Management
+- Algorithm Design
+- Complexity Analysis
+- Performance Optimization
 
 ---
 
@@ -211,48 +209,48 @@ Features:
 
 ## Generics
 
-* Generic Classes
-* Generic Methods
-* Type Parameters
-* Wildcards
-* Bounded Types
+- Generic Classes
+- Generic Methods
+- Type Parameters
+- Wildcards
+- Bounded Types
 
 ## Collections Framework
 
-* ArrayList
-* LinkedList
-* Stack
-* Queue
-* Set
-* Map
+- ArrayList
+- LinkedList
+- Stack
+- Queue
+- Set
+- Map
 
 ## Java Streams
 
-* Stream API
-* Functional Operations
-* Data Processing
+- Stream API
+- Functional Operations
+- Data Processing
 
 ## File Handling
 
-* File Streams
-* Object Streams
-* Buffered Streams
-* Reader and Writer Classes
+- File Streams
+- Object Streams
+- Buffered Streams
+- Reader and Writer Classes
 
 ## Exception Handling
 
-* Checked Exceptions
-* Unchecked Exceptions
-* Custom Exceptions
-* Try-Catch-Finally
-* Throw vs Throws
+- Checked Exceptions
+- Unchecked Exceptions
+- Custom Exceptions
+- Try-Catch-Finally
+- Throw vs Throws
 
 ## Skills Acquired
 
-* Generic Programming
-* Collection Handling
-* Stream Processing
-* Robust Error Handling
+- Generic Programming
+- Collection Handling
+- Stream Processing
+- Robust Error Handling
 
 ---
 
@@ -260,39 +258,39 @@ Features:
 
 ## Regular Expressions
 
-* Email Validation
-* Password Validation
-* Phone Number Validation
-* Pattern Matching
-* Text Extraction
+- Email Validation
+- Password Validation
+- Phone Number Validation
+- Pattern Matching
+- Text Extraction
 
 ## JUnit Testing
 
-* Unit Testing
-* Assertions
-* Test Cases
-* Test Annotations
-* Code Coverage Concepts
+- Unit Testing
+- Assertions
+- Test Cases
+- Test Annotations
+- Code Coverage Concepts
 
 ## Annotations
 
 ### Built-in Annotations
 
-* @Override
-* @Deprecated
-* @SuppressWarnings
+- `@Override`
+- `@Deprecated`
+- `@SuppressWarnings`
 
 ### Custom Annotations
 
-* @ImportantTask
-* @DeveloperInfo
+- `@ImportantTask`
+- `@DeveloperInfo`
 
 ## Skills Acquired
 
-* Automated Testing
-* Input Validation
-* Reflection API
-* Annotation Processing
+- Automated Testing
+- Input Validation
+- Reflection API
+- Annotation Processing
 
 ---
 
@@ -302,61 +300,57 @@ Features:
 
 ### DRY
 
-Don't Repeat Yourself
+- Don't Repeat Yourself
 
 ### SOLID Principles
 
-* Single Responsibility Principle
-* Open/Closed Principle
-* Liskov Substitution Principle
-* Interface Segregation Principle
-* Dependency Inversion Principle
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
 
 ### YAGNI
 
-You Aren't Gonna Need It
+- You Aren't Gonna Need It
 
 ### TDD
 
-Test Driven Development
-
----
+- Test Driven Development
 
 ## Design Patterns
 
 ### Creational Patterns
 
-* Singleton
-* Factory
-* Builder
-* Abstract Factory
-* Factory Method
+- Singleton
+- Factory
+- Builder
+- Abstract Factory
+- Factory Method
 
 ### Structural Patterns
 
-* Decorator
+- Decorator
 
 ### Behavioral Patterns
 
-* Observer
-
----
+- Observer
 
 ## Project: Library Management System
 
-Features:
+### Features
 
-* Catalog Management
-* User Management
-* Notification System
-* Search Functionality
+- Catalog Management
+- User Management
+- Notification System
+- Search Functionality
 
-Design Patterns Used:
+### Design Patterns Used
 
-* Singleton Pattern
-* Factory Pattern
-* Builder Pattern
-* Observer Pattern
+- Singleton Pattern
+- Factory Pattern
+- Builder Pattern
+- Observer Pattern
 
 ---
 
@@ -366,28 +360,28 @@ Design Patterns Used:
 
 ### Topics Covered
 
-* CSV Data Handling
-* JSON Data Handling
-* FileReader and FileWriter
-* FileInputStream and FileOutputStream
-* BufferedReader and BufferedWriter
-* File Class
+- CSV Data Handling
+- JSON Data Handling
+- FileReader and FileWriter
+- FileInputStream and FileOutputStream
+- BufferedReader and BufferedWriter
+- File Class
 
 ### Projects
 
-* IPL Analyzer
-* Census Analyzer
-* Address Book File Storage
-* Hotel Reservation System
+- IPL Analyzer
+- Census Analyzer
+- Address Book File Storage
+- Hotel Reservation System
 
 ---
 
 ## Java 8 Features
 
-* Lambda Expressions
-* Stream API
-* Functional Programming
-* Collection Enhancements
+- Lambda Expressions
+- Stream API
+- Functional Programming
+- Collection Enhancements
 
 ---
 
@@ -395,109 +389,32 @@ Design Patterns Used:
 
 ### Topics Covered
 
-* Thread Class
-* Runnable Interface
-* Thread Life Cycle
-* Thread States
-* Virtual Threads
-* Synchronization
+- Thread Class
+- Runnable Interface
+- Thread Life Cycle
+- Thread States
+- Virtual Threads
+- Synchronization
 
 ### Projects
 
-* Producer Consumer Problem
-* Thread-Safe Singleton Implementation
+- Producer Consumer Problem
+- Thread-Safe Singleton Implementation
 
-## Skills Acquired
+### Skills Acquired
 
-* File Handling
-* Data Processing
-* Functional Programming
-* Concurrent Programming
-
----
-
-# Database Management Systems (DBMS)
-
-## Topics Covered
-
-### Database Fundamentals
-
-* Relational Databases
-* Non-Relational Databases
-* RDBMS Concepts
-* PostgreSQL
-
-### SQL
-
-#### DDL Commands
-
-* CREATE
-* ALTER
-* DROP
-* TRUNCATE
-
-#### DML Commands
-
-* INSERT
-* UPDATE
-* DELETE
-
-### Database Design
-
-* ER Diagrams
-* Primary Keys
-* Foreign Keys
-* Relationships
-* Constraints
-
-### Advanced Concepts
-
-* Joins
-* Indexing
-* Normalization
-  * 1NF
-  * 2NF
-  * 3NF
-  * 4NF
-* Stored Procedures
-* Triggers
-
-### JDBC
-
-* Database Connectivity
-* CRUD Operations
-* JDBC Architecture
-
-## Project
-
-### Learning Management System Database
-
-Features:
-
-* Candidate Hiring Module
-* Candidate Onboarding Module
-* Admin Management Module
-* Database Normalization
-* ER Diagram Design
-* Table Relationships
-* Indexing and Optimization
-
-## Skills Acquired
-
-* Database Design
-* SQL Query Writing
-* Database Normalization
-* JDBC Integration
-* Relational Data Modeling
+- File Handling
+- Data Processing
+- Functional Programming
+- Concurrent Programming
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
 
 | Category | Technologies |
-|-----------|-------------|
+|----------|--------------|
 | Programming Language | Java |
-| Database | PostgreSQL |
 | Version Control | Git |
 | Repository Hosting | GitHub |
 | IDE | IntelliJ IDEA |
@@ -507,7 +424,7 @@ Features:
 
 ---
 
-## Author
+# Author
 
 **Muskan Kapoor**
 
